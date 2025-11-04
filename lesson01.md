@@ -1,4 +1,4 @@
-# Введение в HTML и CSS
+# Лекция 1. Введение в HTML и CSS
 
 ![html-css.webp](images/html-css.webp)
 
