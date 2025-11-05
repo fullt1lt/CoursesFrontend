@@ -969,9 +969,9 @@ padding: 10px 20px 30px 40px;
 
 > Цвет можно опустить — тогда используется `currentColor`. Прозрачная рамка: `border-color: transparent;` (полезно для «выравнивания» без видимой линии).
 
-Примеры использования border:
+Примеры использования `border`:
 
-```сss
+```css
 .border-example1 {
   border: 3px solid #4caf50; /* Толстая зелёная рамка */
 }
@@ -1285,20 +1285,16 @@ p { color: blue; }  /* Второе объявление */
 ```css
 a {
   color: #1565c0;
-  text-decoration: none;
-
-  /* При наведении */
+  text-decoration: none; /* При наведении */
   &:hover {
     color: #0d47a1;
     text-decoration: underline;
-  }
-  /* При клике */
+  } /* При клике */
   &:active {
     color: #ef6c00;
-  }
-  /* Посещённая ссылка */
+  } /* Посещённая ссылка */
   &:visited {
-    color: #6a1b9a;
+    color: #9a1b1b;
   }
 }
 ```
@@ -1326,14 +1322,12 @@ a {
   border-radius: 6px;
   cursor: pointer;
   transition: 0.2s;
-}
-
-.btn:hover {
-  background-color: #1e88e5;
-}
-
-.btn:active {
-  background-color: #1565c0;
+  &:hover {
+    background-color: #1e88e5;
+  } 
+  &:active {
+    background-color: #1565c0;
+  }
 }
 ```
 
