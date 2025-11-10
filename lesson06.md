@@ -69,10 +69,10 @@
 
 **Пример вдохновляющих работ с использованием CSS Grid можно найти здесь:**
 
-- ![CSS Design Awards](https://www.cssdesignawards.com/website-gallery?feature=grid&utm) - Галерея **«Grid»** : коллекция сайтов с сетками.
-- ![Webflow](https://webflow.com/made-in-webflow/grid?) - Галерея **«Made in Webflow»** : вдохновляющие проекты, созданные с использованием **CSS Grid**.
-- ![Grid By Example](https://gridbyexample.com/examples/) - Примеры и шаблоны для изучения **CSS Grid**.
-- ![Awwwards](https://www.awwwards.com/websites/css-grid/) - Лучшие сайты, использующие **CSS Grid**.
+- [CSS Design Awards](https://www.cssdesignawards.com/website-gallery?feature=grid&utm) - Галерея **«Grid»** : коллекция сайтов с сетками.
+- [Webflow](https://webflow.com/made-in-webflow/grid?) - Галерея **«Made in Webflow»** : вдохновляющие проекты, созданные с использованием **CSS Grid**.
+- [Grid By Example](https://gridbyexample.com/examples/) - Примеры и шаблоны для изучения **CSS Grid**.
+- [Awwwards](https://www.awwwards.com/websites/css-grid/) - Лучшие сайты, использующие **CSS Grid**.
 
 ## Основные понятия и структура CSS Grid
 
